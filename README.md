@@ -1,4 +1,4 @@
-READ ME
+
 This application helps travelers to locate nearest gas station. by using google map integration, the app helps you to with a live navigation to your desire destination. 
 
 FEATURES
